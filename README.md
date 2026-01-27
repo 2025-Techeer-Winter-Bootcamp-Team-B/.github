@@ -28,6 +28,9 @@
 <br><br>
 
 # 🛠 ️System Architecture
+<img width="1194" height="661" alt="image (1)" src="https://github.com/user-attachments/assets/8ef0f067-9e8d-428f-b5fa-b6a3ee18c5d6" />
+![제목 없는 다이어그램-Copy of 페이지-1의 복사본](https://github.com/user-attachments/assets/ce8872ad-404c-4373-a42f-e0eff4d9279b)
+
 <br><br>
 
 # 🔑 ERD
