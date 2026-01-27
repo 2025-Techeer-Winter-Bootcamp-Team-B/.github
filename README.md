@@ -1,5 +1,5 @@
 <h1 align="center"> ⚙️ 부동산 데이터 분석 및 시각화 서비스 ⚙️ </h1> <div align="center" style="font-size:18px">
-<img width="1024" height="1024" alt="logo" src="https://github.com/user-attachments/assets/a618c10c-2570-49ba-a0ad-7f81b2820d07" />
+<img width="300" height="300" alt="logo" src="https://github.com/user-attachments/assets/a618c10c-2570-49ba-a0ad-7f81b2820d07" />
 
 # 🔮 Table of Contents
 - [Medium](#-Medium)
