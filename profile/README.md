@@ -63,7 +63,6 @@
 | **Logging** | <img src="https://img.shields.io/badge/Uvicorn%20Logging-111827?style=for-the-badge"> <img src="https://img.shields.io/badge/Python%20Logging-3776AB?style=for-the-badge&logo=python&logoColor=white"> |
 | **ETC** | <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"> <img src="https://img.shields.io/badge/ReDoc-111827?style=for-the-badge"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> |
 
-
 # 📊 Monitoring
 <h3 align="left">Prometheus & Grafana</h3>
 <table>
