@@ -148,61 +148,56 @@
 </table>
 <br><br>
 
-## 🚀 How to Start
-
+# 🚀 How to Start
 #### 1. Clone The Repository
 ```bash
-https://github.com/2025-Techeer-Winter-Bootcamp-Team-B/Backend.git
-https://github.com/2025-Techeer-Winter-Bootcamp-Team-B/Frontend.git
+git clone https://github.com/2025-Techeer-Winter-Bootcamp-Team-B/techeer-team-b-2026.git
+cd techeer-team-b-2026
 ```
 #### 2. ENV Setting
 - Backend/.env
 ```
-MYSQL_ROOT_PASSWORD=
-MYSQL_DATABASE=
-MYSQL_USER=
-MYSQL_PASSWORD=
+# 데이터베이스 설정
+POSTGRES_USER=
+POSTGRES_PASSWORD=
+POSTGRES_DB=
+POSTGRES_PORT=5432
 
-DATABASE_HOST=
-DATABASE_HOST2=
-DATABASE_NAME=
-DATABASE_USER=
-DATABASE_PASSWORD=
+# Redis 설정
+REDIS_PORT=6379
 
-SECRET_KEY=
+# 서버 포트
+BACKEND_PORT=8000
 
-BITSTUDIO_API_KEY=
-OPENAI_API_KEY=
-SERP_API_KEY=
+# Clerk 인증
+CLERK_SECRET_KEY=
+CLERK_PUBLISHABLE_KEY=
+CLERK_WEBHOOK_SECRET=
 
-CELERY_BROKER_URL=
-
-AWS_ACCESS_KEY_ID=
-AWS_SECRET_ACCESS_KEY=
-AWS_STORAGE_BUCKET_NAME=
-AWS_S3_REGION_NAME=
-
+# 외부 API 키
+MOLIT_API_KEY=
+REB_API_KEY=
+KAKAO_REST_API_KEY=
+KAKAO_JAVASCRIPT_KEY=
 GEMINI_API_KEY=
-
-AWS_S3_CUSTOM_DOMAIN=
-
-TNB_EMAIL=
-TNB_PASSWORD=
-
-ENVIRONMENT=
-DEBUG=
-SWAGGER_BASE_URL=
+GOOGLE_MAP_API_KEY=
 
 ```
 #### 3. Run Docker
 ```
-docker-compose up --build
+docker-compose up -d --build
+docker-compose down
+```
+#### 4. DataBase Reset
+```
+docker exec -it realestate-backend python /app/scripts/init_db_from_sql.py
+docker exec -it realestate-backend python -m app.db_admin
 ```
 ### Install
 ```
+cd frontend
 yarn install
 ```
-
 ### Run
 ```
 yarn run dev
