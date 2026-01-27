@@ -31,7 +31,9 @@
 <br><br>
 
 # 🔑 ERD
-<img width="2514" height="1450" alt="image" src="https://github.com/user-attachments/assets/1f2830f0-195c-4d96-8606-03b231cdff4f" />
+<img width="1920" height="732" alt="image" src="https://github.com/user-attachments/assets/c89aba1c-8ce8-4181-9715-e3c180e578c4" />
+<img width="1919" height="973" alt="image" src="https://github.com/user-attachments/assets/02858f9b-2f0f-4299-950f-edd352882666" />
+
 <br><br>
 
 # 💻 Tech Stack
