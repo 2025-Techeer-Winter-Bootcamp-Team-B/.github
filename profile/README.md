@@ -61,21 +61,21 @@
   <tr style="background:#ffffff;">
     <td align="center" style="background:#ffffff; border:1px solid #e5e7eb; padding:10px;"><b>Frontend</b></td>
     <td align="left" style="background:#ffffff; border:1px solid #e5e7eb; padding:10px;">
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-      <img src="https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white">
-      <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-      <br/>
-      <img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3dotjs&logoColor=white">
-      <img src="https://img.shields.io/badge/Highcharts-1F4B99?style=for-the-badge&logo=highcharts&logoColor=white">
-      <img src="https://img.shields.io/badge/Recharts-22C55E?style=for-the-badge">
-      <img src="https://img.shields.io/badge/Lightweight%20Charts-111827?style=for-the-badge">
-      <br/>
-      <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white">
-      <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge">
-      <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white">
-      <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
-      <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black">
+     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+     <img src="https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white">
+     <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
+     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+     <br/>
+     <img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3dotjs&logoColor=white">
+     <img src="https://img.shields.io/badge/Highcharts-1F4B99?style=for-the-badge&logo=highcharts&logoColor=white">
+     <img src="https://img.shields.io/badge/Recharts-22C55E?style=for-the-badge">
+     <img src="https://img.shields.io/badge/Lightweight%20Charts-111827?style=for-the-badge">
+     <br/>
+     <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white">
+     <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge">
+     <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white">
+     <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
+     <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black">
     </td>
   </tr>
 
