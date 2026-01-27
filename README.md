@@ -17,14 +17,20 @@
 
 
 ### Medium
->  [Morph-Medium](https://medium.com/@ymkim2353/siliconvalley-summer-bootcamp-team-c-morph-fbc5f4ec896e)
+>  [SweetHome-Medium](https://medium.com/@ibonet30/%EB%82%B4-%EB%B6%80%EB%8F%99%EC%82%B0-%EC%9E%90%EC%82%B0%EC%9D%84-%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94-%ED%99%94%EB%A9%B4-85e5fdd41569?postPublishedType=repub)
 <br>
 
 # 🕺🏻 Demo
-### 메인페이지
+### 홈
 
+### 지도
+
+### 비교
+
+### 통계
 
 # 📗 API
+
 <br><br>
 
 # 🛠 ️System Architecture
