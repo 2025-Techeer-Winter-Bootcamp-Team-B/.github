@@ -148,11 +148,12 @@
 </table>
 <br><br>
 
-# 🚀 How to Start
+## 🚀 How to Start
+
 #### 1. Clone The Repository
-```
-https://github.com/2025-Techeer-Summer-Bootcamp-Team-C/Backend.git
-https://github.com/2025-Techeer-Summer-Bootcamp-Team-C/Frontend.git
+```bash
+https://github.com/2025-Techeer-Winter-Bootcamp-Team-B/Backend.git
+https://github.com/2025-Techeer-Winter-Bootcamp-Team-B/Frontend.git
 ```
 #### 2. ENV Setting
 - Backend/.env
