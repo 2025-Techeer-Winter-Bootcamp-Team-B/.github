@@ -1,14 +1,14 @@
 # 🔮 Table of Contents
-- [Medium](#-Medium)
-- [Demo](#-Demo)
-- [System Architechture](#-System-Architechture)
-- [Tech stack](#-Tech-stack)
-- [ERD](#-Erd)
-- [API](#-API)
-- [Monitoring](#-Monitoring)
-- [Directory Structure](#-Directory-Structure)
-- [How to Start](#-How-to-Start)
-- [Member](#-Member)
+- [Introduction](#-introduction)
+- [Medium](#-medium)
+- [Demo](#-demo)
+- [API](#-api)
+- [System Architecture](#-system-architecture)
+- [ERD](#-erd)
+- [Tech Stack](#-tech-stack)
+- [Monitoring](#-monitoring)
+- [How to Start](#-how-to-start)
+- [Member](#-member)
 <br>
 
 # 📣 Introduction
