@@ -29,6 +29,13 @@
 ### 통계
 
 # 📗 API
+<img width="777" height="669" alt="b1" src="https://github.com/user-attachments/assets/fb03f76e-b230-42f7-a420-afdb8f9cf32d" />
+<img width="779" height="765" alt="b2" src="https://github.com/user-attachments/assets/9b1874f8-b482-49b8-9d8b-4484c4c181fa" />
+<img width="774" height="581" alt="b3" src="https://github.com/user-attachments/assets/99aed2ce-1328-429b-8568-1057be7748a3" />
+<img width="778" height="837" alt="b4" src="https://github.com/user-attachments/assets/231c2e3f-3f97-4367-8374-99863150661a" />
+<img width="772" height="637" alt="b5" src="https://github.com/user-attachments/assets/aeae8cb2-3d01-42c5-8b7d-4e15eab8f66e" />
+<img width="776" height="630" alt="b6" src="https://github.com/user-attachments/assets/27db22b8-1b4a-4eff-aaff-f123b1fad5eb" />
+<img width="778" height="544" alt="b7" src="https://github.com/user-attachments/assets/db878a48-4d84-4ae9-be78-ab750107b0ab" />
 
 <br><br>
 
