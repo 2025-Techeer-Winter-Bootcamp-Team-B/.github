@@ -195,7 +195,7 @@ docker exec -it realestate-backend python -m app.db_admin
 
 | 항목 | 김강문 | 조항중 | 박찬영 | 김민성 | 조수아 | 정조셉 |
 |------|--------|--------|--------|--------|--------|-------|
-| **Profile** | |![조항중 사진](https://github.com/user-attachments/assets/122cef84-4094-47a8-85b9-86151ceeeae5)
+| **Profile** | |![조항중 사진 (1)](https://github.com/user-attachments/assets/9a068872-ba9f-4f89-8af9-a398ae68477c)
 
  | | | | |
 | **Role**   | **Team Leader, DevOps, Backend** |  |  |  |  |  |  |
