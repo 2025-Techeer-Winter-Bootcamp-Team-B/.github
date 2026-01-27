@@ -2,7 +2,7 @@
 - [Introduction](#-introduction)
 - [Demo](#-demo)
 - [API](#-api)
-- [System Architecture](#-system-architecture)
+- [System Architecture](#system-architecture)
 - [ERD](#-erd)
 - [Tech Stack](#-tech-stack)
 - [Monitoring](#-monitoring)
