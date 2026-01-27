@@ -1,5 +1,5 @@
 # 🔮 Table of Contents
-- [Medium](#-Medium)
+- [Medium](https://medium.com/@ibonet30/%EB%82%B4-%EB%B6%80%EB%8F%99%EC%82%B0-%EC%9E%90%EC%82%B0%EC%9D%84-%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94-%ED%99%94%EB%A9%B4-85e5fdd41569?postPublishedType=repub)
 - [Demo](#-Demo)
 - [System Architechture](#-System-Architechture)
 - [Tech stack](#-Tech-stack)
