@@ -40,8 +40,9 @@
 <br><br>
 
 # 🛠 System Architecture
-<img width="1194" height="661" alt="SA_1" src="https://github.com/user-attachments/assets/8ef0f067-9e8d-428f-b5fa-b6a3ee18c5d6" />
-<img width="1194" height="661" alt="SA_2" src="https://github.com/user-attachments/assets/ce8872ad-404c-4373-a42f-e0eff4d9279b" />
+<img width="1670" height="864" alt="s1" src="https://github.com/user-attachments/assets/10759914-facc-426f-b08f-f58ca543553e" />
+<img width="1400" height="667" alt="s2" src="https://github.com/user-attachments/assets/e8961b6c-dc0a-4bb1-9ece-f546c821656f" />
+
 
 <br><br>
 
