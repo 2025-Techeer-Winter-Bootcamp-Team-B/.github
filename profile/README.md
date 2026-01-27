@@ -195,7 +195,8 @@ docker exec -it realestate-backend python -m app.db_admin
 
 | 항목 | 김강문 | 조항중 | 박찬영 | 김민성 | 조수아 | 정조셉 |
 |------|--------|--------|--------|--------|--------|-------|
-| **Profile** | | | | | | |
+| **Profile** | |![조항중 사진](https://github.com/user-attachments/assets/c501b112-cd74-4ee1-b108-bf085eab7c81)
+ | | | | |
 | **Role**   | **Team Leader, DevOps, Backend** |  |  |  |  |  |  |
 | **GitHub** |  [@rivermoon-03](https://github.com/rivermoon-03)|  [@whgkdwnd](https://github.com/whgkdwnd)| [@ChanyoungPark03](https://github.com/ChanyoungPark03) | [@rlaalstjdzzz](https://github.com/rlaalstjdzzz) |  [@ssuasu](https://github.com/ssuasu)|  [@joseph054](https://github.com/joseph054)|
 
