@@ -124,13 +124,14 @@
 <h3 align="left">Prometheus & Grafana</h3>
 <table>
     <tr>
-        <th colspan="2">Django</th>
+        <th colspan="2">FastAPI</th>
     </tr>
     <tr>
-        <td><img src="https://github.com/user-attachments/assets/fbdd0c78-cc61-496a-b908-8988289a3fcb" alt=Django></td>
+        <td><img src="https://github.com/user-attachments/assets/b2b71579-acc0-43e5-bd1f-c4c6a2a575ef"  alt="FastAPI"></td>
         <td><img src="https://github.com/user-attachments/assets/272865b9-d9c1-4cf4-8192-b7c135988e58"  alt="Django2"></td>
     </tr>
     <tr>
+
     <tr>
         <th colspan="2">cAdvisor</th>
     </tr>
