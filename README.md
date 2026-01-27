@@ -1,3 +1,6 @@
+<h1 align="center"> ⚙️ 부동산 데이터 분석 및 시각화 서비스 ⚙️ </h1> <div align="center" style="font-size:18px">
+<img width="1024" height="1024" alt="logo" src="https://github.com/user-attachments/assets/a618c10c-2570-49ba-a0ad-7f81b2820d07" />
+
 # 🔮 Table of Contents
 - [Medium](#-Medium)
 - [Demo](#-Demo)
@@ -10,10 +13,6 @@
 - [How to Start](#-How-to-Start)
 - [Member](#-Member)
 <br>
-
-<h1 align="center"> ⚙️ 부동산 데이터 분석 및 시각화 서비스 ⚙️ </h1> <div align="center" style="font-size:18px">
-<img width="282" height="56" alt="image" src="https://github.com/user-attachments/assets/c77a194f-6f2e-48e7-83b6-fdca697e0d39" />
-
 
 <p></p> </div>
 
