@@ -142,31 +142,37 @@
 
 # 📊 Monitoring
 <h3 align="left">Prometheus & Grafana</h3>
-<table>
-    <tr>
-        <th colspan="2">FastAPI</th>
-    </tr>
-    <tr>
-        <td><img src="https://github.com/user-attachments/assets/b2b71579-acc0-43e5-bd1f-c4c6a2a575ef"  alt="FastAPI"></td>
-        <td><img src="https://github.com/user-attachments/assets/b2b71579-acc0-43e5-bd1f-c4c6a2a575ef"  alt="FastAPI"></td>
-    </tr>
-    <tr>
 
-    <tr>
-        <th colspan="2">cAdvisor</th>
-    </tr>
-    <tr>
-        <td><img src="https://github.com/user-attachments/assets/b2b71579-acc0-43e5-bd1f-c4c6a2a575ef"  alt="FastAPI"></td>
-        <td><img src="https://github.com/user-attachments/assets/b2b71579-acc0-43e5-bd1f-c4c6a2a575ef"  alt="FastAPI"></td>
-    </tr>
-    <tr>
-        <th colspan="2">Node Exporter</th>
-    </tr>
-    <tr>
-        <td><img src="https://github.com/user-attachments/assets/b2b71579-acc0-43e5-bd1f-c4c6a2a575ef"  alt="FastAPI"></td>
-        <td><img src="https://github.com/user-attachments/assets/b2b71579-acc0-43e5-bd1f-c4c6a2a575ef"  alt="FastAPI"></td>
-    </tr>
+<table>
+  <tr>
+    <th>FastAPI</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/b2b71579-acc0-43e5-bd1f-c4c6a2a575ef" alt="FastAPI">
+    </td>
+  </tr>
+
+  <tr>
+    <th>Redis</th>
+  </tr>
+  
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/9a6a82ca-bd9b-482f-ab70-099e5b227581" alt="Redis">
+    </td>
+  </tr>
+
+  <tr>
+    <th>PostgreSQL</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/b2b71579-acc0-43e5-bd1f-c4c6a2a575ef" alt="Node Exporter">
+    </td>
+  </tr>
 </table>
+
 <br><br>
 
 # 🚀 How to Start
