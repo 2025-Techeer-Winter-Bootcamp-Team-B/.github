@@ -128,7 +128,7 @@
     </tr>
     <tr>
         <td><img src="https://github.com/user-attachments/assets/b2b71579-acc0-43e5-bd1f-c4c6a2a575ef"  alt="FastAPI"></td>
-        <td><img src="https://github.com/user-attachments/assets/272865b9-d9c1-4cf4-8192-b7c135988e58"  alt="Django2"></td>
+        <td><img src="https://github.com/user-attachments/assets/b2b71579-acc0-43e5-bd1f-c4c6a2a575ef"  alt="FastAPI"></td>
     </tr>
     <tr>
 
@@ -136,15 +136,15 @@
         <th colspan="2">cAdvisor</th>
     </tr>
     <tr>
-        <td><img src="https://github.com/user-attachments/assets/1d11ca9d-6a5e-46c2-b54f-10a38830ac60" alt="cAdvisor2"></td>
-        <td><img src="https://github.com/user-attachments/assets/b8fc2005-8cd8-44d0-bbf6-631df97c4341" alt=cAdvisor"</td>
+        <td><img src="https://github.com/user-attachments/assets/b2b71579-acc0-43e5-bd1f-c4c6a2a575ef"  alt="FastAPI"></td>
+        <td><img src="https://github.com/user-attachments/assets/b2b71579-acc0-43e5-bd1f-c4c6a2a575ef"  alt="FastAPI"></td>
     </tr>
     <tr>
         <th colspan="2">Node Exporter</th>
     </tr>
     <tr>
-        <td><img src="https://github.com/user-attachments/assets/a1c9d3c9-b7db-4b37-baa2-785d00e8abd9" ></td>
-        <td><img src="https://github.com/user-attachments/assets/cfa6702c-b214-4d24-bfcb-a2ced55a3f25"></td>
+        <td><img src="https://github.com/user-attachments/assets/b2b71579-acc0-43e5-bd1f-c4c6a2a575ef"  alt="FastAPI"></td>
+        <td><img src="https://github.com/user-attachments/assets/b2b71579-acc0-43e5-bd1f-c4c6a2a575ef"  alt="FastAPI"></td>
     </tr>
 </table>
 <br><br>
