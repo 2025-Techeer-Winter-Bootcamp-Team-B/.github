@@ -1,6 +1,6 @@
 # 🔮 Table of Contents
 - [Introduction](#-introduction)
-- [Medium](#-medium)
+- [Medium](###-medium)
 - [Demo](#-demo)
 - [API](#-api)
 - [System Architecture](#-system-architecture)
