@@ -52,6 +52,7 @@
 <br><br>
 
 # 💻 Tech Stack
+# 💻 Tech Stack
 <div align="center">
   <table>
     <tr>
@@ -161,8 +162,7 @@
     </tr>
   </table>
 </div>
-</br>
-
+<br/>
 
 # 📊 Monitoring
 <h3 align="left">Prometheus & Grafana</h3>
