@@ -168,7 +168,7 @@
   </tr>
   <tr>
     <td>
-      <img src="https://github.com/user-attachments/assets/b2b71579-acc0-43e5-bd1f-c4c6a2a575ef" alt="Node Exporter">
+      <img src="https://github.com/user-attachments/assets/913e4226-0d6f-4fe8-a60f-10e37c634224" alt="PostgreSQL">
     </td>
   </tr>
 </table>
