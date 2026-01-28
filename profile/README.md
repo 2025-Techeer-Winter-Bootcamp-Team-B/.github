@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/2025-Techeer-Winter-Bootcamp-Team-B/.github/main/assets/SweetHome.gif"
-       width="900" alt="SweetHome" />
+       width="900" style="height:auto; alt="SweetHome" />
 </p>
 
 # 🔮 Table of Contents
@@ -29,19 +29,23 @@
 # 🕺🏻 Demo
 ### 홈
 
-<br>![Home](https://github.com/rlaalstjdzzz/Media/blob/main/Home.webp)<br>
+![Home](https://github.com/rlaalstjdzzz/Media/blob/main/Home.webp)
+<br><br>
 
 ### 지도
 
-<br>![Maps](https://github.com/rlaalstjdzzz/Media/blob/main/Maps.webp)<br>
+![Maps](https://github.com/rlaalstjdzzz/Media/blob/main/Maps.webp)
+<br><br>
 
 ### 비교
 
-<br>![Comparison](https://github.com/user-attachments/assets/1265b48c-afe3-4182-899f-bdf2be0af950)<br>
+![Comparison](https://github.com/user-attachments/assets/1265b48c-afe3-4182-899f-bdf2be0af950)
+<br><br>
 
 ### 통계
 
-<br>![Statics](https://github.com/user-attachments/assets/3feeb9a0-3689-4694-8d59-b8a9eff796d6)<br>
+![Statics](https://github.com/user-attachments/assets/3feeb9a0-3689-4694-8d59-b8a9eff796d6)
+<br><br>
 
 # 📗 API
 <img width="1379" height="913" alt="image" src="https://github.com/user-attachments/assets/92b9c1c9-6b55-4840-a0e6-0a1d45bee1e8" />
@@ -51,6 +55,7 @@
 <img width="1384" height="862" alt="image" src="https://github.com/user-attachments/assets/9764a63d-b32a-4686-889d-799fa52c4a85" />
 <img width="1384" height="865" alt="image" src="https://github.com/user-attachments/assets/62436e9e-7384-46e7-a809-97cb6ba8aafe" />
 <img width="1382" height="737" alt="image" src="https://github.com/user-attachments/assets/e940a0e5-5b1c-47ae-8657-ca05fa724611" />
+<br><br>
 
 # 🛠 System Architecture
 <img width="2839" height="1381" alt="s3" src="https://github.com/user-attachments/assets/1b01231d-0202-4ac4-b076-28d92bfe6b5a" />
@@ -72,24 +77,24 @@
   <tr style="background:#ffffff;">
     <td align="center" style="background:#ffffff; border:1px solid #e5e7eb; padding:10px;"><b>Frontend</b></td>
     <td align="left" style="background:#ffffff; border:1px solid #e5e7eb; padding:10px;">
-     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-     <img src="https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white">
-     <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
-     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+      <img src="https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white">
+       <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
+       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
      <br/>
-     <img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3dotjs&logoColor=white">
-     <img src="https://img.shields.io/badge/Highcharts-1F4B99?style=for-the-badge&logo=highcharts&logoColor=white">
-     <img src="https://img.shields.io/badge/Recharts-22C55E?style=for-the-badge">
-     <img src="https://img.shields.io/badge/Lightweight%20Charts-111827?style=for-the-badge">
+       <img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3dotjs&logoColor=white">
+       <img src="https://img.shields.io/badge/Highcharts-1F4B99?style=for-the-badge&logo=highcharts&logoColor=white">
+       <img src="https://img.shields.io/badge/Recharts-22C55E?style=for-the-badge">
+       <img src="https://img.shields.io/badge/Lightweight%20Charts-111827?style=for-the-badge">
      <br/>
-     <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white">
-     <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge">
-     <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white">
-     <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
-     <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black">
+       <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white">
+       <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge">
+       <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white">
+       <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
+       <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black">
     </td>
   </tr>
-
+  
   <tr style="background:#ffffff;">
     <td align="center" style="background:#ffffff; border:1px solid #e5e7eb; padding:10px;"><b>Backend</b></td>
     <td align="left" style="background:#ffffff; border:1px solid #e5e7eb; padding:10px;">
@@ -220,7 +225,10 @@ GOOGLE_MAP_API_KEY=
 ```
 #### 3. Run Docker
 ```
+# 전체 서비스 실행
 docker-compose up -d --build
+
+# 종료
 docker-compose down
 ```
 #### 4. DataBase Reset
@@ -231,15 +239,14 @@ docker exec -it realestate-backend python -m app.db_admin
 ### Install
 ```
 cd frontend
-yarn install
+npm install
 ```
 
 ### Run
 ```
-yarn run dev
+npm run dev
 ```
 <br>
-
 
 ## 👥 Member
 | Name | 김강문 | 김민성 | 박찬영 | 정조셉 | 조항중 | 조수아 |
