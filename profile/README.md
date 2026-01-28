@@ -1,7 +1,8 @@
 <h1 align="center">🏠 SweetHome</h1>
 
 <p align="center">
-  <img src="../assets/SweetHome.gif" width="900" alt="SweetHome Demo" />
+  <img src="https://raw.githubusercontent.com/2025-Techeer-Winter-Bootcamp-Team-B/.github/main/assets/SweetHome.gif"
+       width="900" alt="SweetHome Demo" />
 </p>
 
 # 🔮 Table of Contents
