@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/2025-Techeer-Winter-Bootcamp-Team-B/.github/main/assets/SweetHome.gif"
-       width="900" alt="SweetHome Demo" />
+       width="900" alt="SweetHome" />
 </p>
 
 # 🔮 Table of Contents
