@@ -1,4 +1,4 @@
-### <p align = center>🏠 SweetHome <p>
+# <p align = center>🏠 SweetHome <p>
 
 <p align="center">
   <a href="https://github.com/your_repo">
