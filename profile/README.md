@@ -2,10 +2,11 @@
 
 <p align="center">
   <a href="https://github.com/your_repo">
-     <img src="assets/SweetHomevideo.gif" width="800" />
+     <img src="https://github.com/user-attachments/assets/e2055d52-3f53-4636-a038-c6de93af6db3" width="800" />
      width="900" style="height:auto;" />
   </a>
 </p>
+
 
 # 🔮 Table of Contents
 - [Introduction](#-introduction)
