@@ -47,14 +47,13 @@
 
 # 📗 API
 <img width="1379" height="913" alt="image" src="https://github.com/user-attachments/assets/92b9c1c9-6b55-4840-a0e6-0a1d45bee1e8" />
-<img width="777" height="669" alt="b1" src="https://github.com/user-attachments/assets/fb03f76e-b230-42f7-a420-afdb8f9cf32d" />
-<img width="779" height="765" alt="b2" src="https://github.com/user-attachments/assets/9b1874f8-b482-49b8-9d8b-4484c4c181fa" />
-<img width="774" height="581" alt="b3" src="https://github.com/user-attachments/assets/99aed2ce-1328-429b-8568-1057be7748a3" />
-<img width="778" height="837" alt="b4" src="https://github.com/user-attachments/assets/231c2e3f-3f97-4367-8374-99863150661a" />
-<img width="772" height="637" alt="b5" src="https://github.com/user-attachments/assets/aeae8cb2-3d01-42c5-8b7d-4e15eab8f66e" />
-<img width="776" height="630" alt="b6" src="https://github.com/user-attachments/assets/27db22b8-1b4a-4eff-aaff-f123b1fad5eb" />
-<img width="778" height="544" alt="b7" src="https://github.com/user-attachments/assets/db878a48-4d84-4ae9-be78-ab750107b0ab" />
-<br><br>
+<img width="1386" height="1027" alt="image" src="https://github.com/user-attachments/assets/799aa2c8-6d1c-48dd-b3ca-8827297e4481" />
+<img width="1383" height="967" alt="image" src="https://github.com/user-attachments/assets/4afa1f74-df7d-4bd1-8193-73c313bf1b0a" />
+<img width="1385" height="1143" alt="image" src="https://github.com/user-attachments/assets/354bf885-bc5f-473b-8584-212d40eeb3c6" />
+<img width="1384" height="862" alt="image" src="https://github.com/user-attachments/assets/9764a63d-b32a-4686-889d-799fa52c4a85" />
+<img width="1384" height="865" alt="image" src="https://github.com/user-attachments/assets/62436e9e-7384-46e7-a809-97cb6ba8aafe" />
+<img width="1383" height="862" alt="image" src="https://github.com/user-attachments/assets/a54ff5b1-3e35-4aac-bb90-7d7c1cf130b3" />
+<img width="1382" height="280" alt="image" src="https://github.com/user-attachments/assets/eed65e0e-c8f4-41a2-b122-b30dca35d96c" />
 
 # 🛠 System Architecture
 <img width="2839" height="1381" alt="s3" src="https://github.com/user-attachments/assets/1b01231d-0202-4ac4-b076-28d92bfe6b5a" />
