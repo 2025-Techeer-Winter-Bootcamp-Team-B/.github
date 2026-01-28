@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/your_repo">
-     <img src="assets/SweetHome.gif" width="800" />
+     <img src="assets/SweetHomevideo.gif" width="800" />
      width="900" style="height:auto;" />
   </a>
 </p>
