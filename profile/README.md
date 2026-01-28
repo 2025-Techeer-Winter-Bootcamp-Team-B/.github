@@ -1,3 +1,12 @@
+### <p align = center>🏠 SweetHome <p>
+
+<p align="center">
+  <a href="https://github.com/your_repo">
+    <img src="https://github.com/user-attachments/assets/4c2e325f-0620-499b-b05f-337f26a7e7c0"
+     width="900" style="height:auto;" />
+  </a>
+</p>
+
 # 🔮 Table of Contents
 - [Introduction](#-introduction)
 - [Demo](#-demo)
@@ -22,11 +31,19 @@
 # 🕺🏻 Demo
 ### 홈
 
+<br><br>
+
 ### 지도
+
+<br><br>
 
 ### 비교
 
+<br><br>
+
 ### 통계
+
+<br><br>
 
 # 📗 API
 <img width="777" height="669" alt="b1" src="https://github.com/user-attachments/assets/fb03f76e-b230-42f7-a420-afdb8f9cf32d" />
@@ -36,19 +53,16 @@
 <img width="772" height="637" alt="b5" src="https://github.com/user-attachments/assets/aeae8cb2-3d01-42c5-8b7d-4e15eab8f66e" />
 <img width="776" height="630" alt="b6" src="https://github.com/user-attachments/assets/27db22b8-1b4a-4eff-aaff-f123b1fad5eb" />
 <img width="778" height="544" alt="b7" src="https://github.com/user-attachments/assets/db878a48-4d84-4ae9-be78-ab750107b0ab" />
-
 <br><br>
 
 # 🛠 System Architecture
 <img width="2839" height="1381" alt="s3" src="https://github.com/user-attachments/assets/1b01231d-0202-4ac4-b076-28d92bfe6b5a" />
 <img width="1400" height="641" alt="s4" src="https://github.com/user-attachments/assets/83978bde-d339-457d-85fc-e7ede4fcfeed" />
-
 <br><br>
 
 # 🔑 ERD
 <img width="1920" height="732" alt="ERD_1" src="https://github.com/user-attachments/assets/c89aba1c-8ce8-4181-9715-e3c180e578c4" />
 <img width="1919" height="973" alt="ERD_2" src="https://github.com/user-attachments/assets/02858f9b-2f0f-4299-950f-edd352882666" />
-
 <br><br>
 
 # 💻 Tech Stack
@@ -137,12 +151,10 @@
     </td>
   </tr>
 </table>
-
-<br/><br/>
+<br/>
 
 # 📊 Monitoring
 <h3 align="left">Prometheus & Grafana</h3>
-
 <table>
   <tr>
     <th>FastAPI</th>
@@ -171,7 +183,7 @@
       <img src="https://github.com/user-attachments/assets/1e44453a-43ef-415d-aea9-87de2d50bee7" alt="PostgreSQL">
     </td>
   </tr>
-
+</table>
 <br><br>
 
 # 🚀 How to Start
@@ -224,6 +236,7 @@ docker exec -it realestate-backend python -m app.db_admin
 cd frontend
 yarn install
 ```
+
 ### Run
 ```
 yarn run dev
