@@ -180,7 +180,7 @@
   </tr>
   <tr>
     <td>
-      <img src="https://github.com/user-attachments/assets/1e44453a-43ef-415d-aea9-87de2d50bee7" alt="PostgreSQL">
+      <img src="https://github.com/user-attachments/assets/b33ea504-916d-481f-b9c8-46848cdb4363" alt="PostgreSQL">
     </td>
   </tr>
 </table>
