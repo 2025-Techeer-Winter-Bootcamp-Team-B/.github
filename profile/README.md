@@ -30,24 +30,28 @@
 ### 홈
 
 <hr>
+
 ![Home](https://github.com/rlaalstjdzzz/Media/blob/main/Home.webp)
 <br><br>
 
 ### 지도
 
 <hr>
+
 ![Maps](https://github.com/rlaalstjdzzz/Media/blob/main/Maps.webp)
 <br><br>
 
 ### 비교
 
 <hr>
+
 ![Comparison](https://github.com/user-attachments/assets/1265b48c-afe3-4182-899f-bdf2be0af950)
 <br><br>
 
 ### 통계
 
 <hr>
+
 ![Statics](https://github.com/user-attachments/assets/3feeb9a0-3689-4694-8d59-b8a9eff796d6)
 <br><br>
 
