@@ -168,10 +168,9 @@
   </tr>
   <tr>
     <td>
-      <img src="https://github.com/user-attachments/assets/913e4226-0d6f-4fe8-a60f-10e37c634224" alt="PostgreSQL">
+      <img src="https://github.com/user-attachments/assets/1e44453a-43ef-415d-aea9-87de2d50bee7" alt="PostgreSQL">
     </td>
   </tr>
-</table>
 
 <br><br>
 
