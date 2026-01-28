@@ -39,11 +39,11 @@
 
 ### 비교
 
-<br>(https://github.com/user-attachments/assets/9344f606-3bc1-44fd-b17c-012375abeaa0)<br>
+<br>![Comparison](https://github.com/user-attachments/assets/1265b48c-afe3-4182-899f-bdf2be0af950)<br>
 
 ### 통계
 
-<br>(https://github.com/user-attachments/assets/f72047f4-3e91-46a6-9cb7-56bba62858bb)<br>
+<br>![Statics](https://github.com/user-attachments/assets/3feeb9a0-3689-4694-8d59-b8a9eff796d6)<br>
 
 # 📗 API
 <img width="1379" height="913" alt="image" src="https://github.com/user-attachments/assets/92b9c1c9-6b55-4840-a0e6-0a1d45bee1e8" />
