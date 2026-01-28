@@ -1,8 +1,8 @@
 <h1 align="center">🏠 SweetHome</h1>
 
 <p align="center">
-  <a href="https://github.com/<ORG>/<REPO>#demo">
-    <img src="assets/thumbnail.png" width="900" alt="SweetHome Demo" />
+  <a href="https://github.com/<ORG_OR_USER>/<REPO_NAME>#demo">
+    <img src="https://github.com/user-attachments/assets/e2055d52-3f53-4636-a038-c6de93af6db3" width="900" alt="SweetHome Demo" />
   </a>
 </p>
 
