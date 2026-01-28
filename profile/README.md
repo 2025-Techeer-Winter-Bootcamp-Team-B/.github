@@ -1,12 +1,10 @@
-# <p align = center>🏠 SweetHome <p>
+<h1 align="center">🏠 SweetHome</h1>
 
 <p align="center">
-  <a href="https://github.com/your_repo">
-     <img src="https://github.com/user-attachments/assets/e2055d52-3f53-4636-a038-c6de93af6db3" width="800" />
-     width="900" style="height:auto;" />
+  <a href="https://github.com/<ORG_OR_USER>/<REPO_NAME>#demo">
+    <img src="https://github.com/user-attachments/assets/e2055d52-3f53-4636-a038-c6de93af6db3" width="900" alt="SweetHome Demo" />
   </a>
 </p>
-
 
 # 🔮 Table of Contents
 - [Introduction](#-introduction)
